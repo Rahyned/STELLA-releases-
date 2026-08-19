@@ -1,6 +1,6 @@
 {
   "version": "1.6.0",
   "url": "https://raw.githubusercontent.com/Rahyned/STELLA-releases-/main/STELLA_Setup.exe",
-  "sha256": "c8375d70a63383172eb205f63065ce11bfab883d35d272a4f2e47f40a5a62b98",
+  "sha256": "efdebdd56b82bd2d8e089bef4cf5ca8b07ee907131b53243e818fbde0e261620",
   "notas": "Impresión: comanda 1/2/3 por hoja A6 (sin código de barras), diálogo Generar Comandas con checklist por artículo y stepper de copias, margen superior de comanda 4mm. Nueva sección Actualizaciones en Configuración y auto-actualización desde este repositorio."
 }
