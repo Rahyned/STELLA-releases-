@@ -1,6 +1,6 @@
 {
   "version": "1.6.0",
   "url": "https://raw.githubusercontent.com/Rahyned/STELLA-releases-/main/STELLA_Setup.exe",
-  "sha256": "8e4f0f6d6d8c0ca9b89245d8c30005697a21a21391c164b44f799840e5f8d6ff",
-  "notas": "Primera instalación: BD nueva con rubros y catálogo base de productos. Actualización: no toca tu base de datos. Fix alta de trabajo (selector de cliente), limpieza de BD conserva rubros/productos y botón para crear rubros."
+  "sha256": "4ca1a96571215b97e13b86708d49acf3c7b4e3d3439d78fada7675e361d935df",
+  "notas": "Primera instalación: BD nueva con el catálogo real (304 artículos y 17 rubros de Copia de aranceles.xlsx). Actualización: no toca tu base de datos. Fix alta de trabajo (selector de cliente), limpieza de BD conserva rubros/productos y botón para crear rubros."
 }
