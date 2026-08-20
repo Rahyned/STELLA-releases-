@@ -1,6 +1,6 @@
 {
   "version": "1.6.0",
   "url": "https://raw.githubusercontent.com/Rahyned/STELLA-releases-/main/STELLA_Setup.exe",
-  "sha256": "91aca2d7163c31947abba6463b0397e69e2cdbd62ef4cee75ac36feecd34eb27",
-  "notas": "Impresión: comanda 1/2/3 por hoja A6 (sin código de barras), margen superior 4mm, impresión idéntica al preview a alta resolución y distribución balanceada por hoja. Arranque estable del .exe (stdout/stderr seguros) y auto-actualización desde Configuración."
+  "sha256": "fb6240055ce1861c6a8bed43c849c924b14bd6f48a8a5912500cebb26a6cd804",
+  "notas": "Impresión: comanda 1/2/3 por hoja A6, margen 4mm, impresión idéntica al preview y distribución balanceada. Arranque estable del .exe y auto-actualización. Fix: alta de trabajo con selector de cliente, limpieza de BD conserva rubros/productos y botón para crear rubros."
 }
