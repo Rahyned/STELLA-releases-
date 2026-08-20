@@ -1,6 +1,6 @@
 {
   "version": "1.6.0",
   "url": "https://raw.githubusercontent.com/Rahyned/STELLA-releases-/main/STELLA_Setup.exe",
-  "sha256": "fb6240055ce1861c6a8bed43c849c924b14bd6f48a8a5912500cebb26a6cd804",
-  "notas": "Impresión: comanda 1/2/3 por hoja A6, margen 4mm, impresión idéntica al preview y distribución balanceada. Arranque estable del .exe y auto-actualización. Fix: alta de trabajo con selector de cliente, limpieza de BD conserva rubros/productos y botón para crear rubros."
+  "sha256": "8e4f0f6d6d8c0ca9b89245d8c30005697a21a21391c164b44f799840e5f8d6ff",
+  "notas": "Primera instalación: BD nueva con rubros y catálogo base de productos. Actualización: no toca tu base de datos. Fix alta de trabajo (selector de cliente), limpieza de BD conserva rubros/productos y botón para crear rubros."
 }
