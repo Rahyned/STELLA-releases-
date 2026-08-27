@@ -1,6 +1,6 @@
 {
-  "version": "1.6.0",
+  "version": "1.6.1",
   "url": "https://raw.githubusercontent.com/Rahyned/STELLA-releases-/main/STELLA_Setup.exe",
-  "sha256": "4ca1a96571215b97e13b86708d49acf3c7b4e3d3439d78fada7675e361d935df",
-  "notas": "Primera instalación: BD nueva con el catálogo real (304 artículos y 17 rubros de Copia de aranceles.xlsx). Actualización: no toca tu base de datos. Fix alta de trabajo (selector de cliente), limpieza de BD conserva rubros/productos y botón para crear rubros."
+  "sha256": "1e14c333946af2765888959d18de32c7a6b31c122ad512e34e233f74cf559a94",
+  "notas": "v1.6.1: Exportar datos en CSV/JSON desde las tablas (Clientes, Proveedores, Productos, Cuentas Corrientes y Trabajos). Botón 'Abrir carpeta de logs' en Configuración. Rotación automática de logs (ya no crecen infinitamente). Dependencias auditadas (0 vulnerabilidades). Tu base de datos no se toca al actualizar."
 }
