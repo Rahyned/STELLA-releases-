@@ -1,6 +1,6 @@
 {
-  "version": "1.6.2",
+  "version": "1.6.3",
   "url": "https://raw.githubusercontent.com/Rahyned/STELLA-releases-/main/STELLA_Setup.exe",
-  "sha256": "59156b44cf325e51389a352b47a070a74ee232710d97c060baca74f461baf4bc",
-  "notas": "v1.6.2: Fix importante en Cuentas Corrientes y navegación entre secciones (error de loader al cambiar de pestaña ya no interrumpe la app). Incluye todo lo de v1.6.1: exportar CSV/JSON, botón 'Abrir carpeta de logs', rotación de logs, dependencias auditadas. Tu base de datos no se toca al actualizar."
+  "sha256": "2900fc3f2c115f5f2bb1d41ba64b45617758e8c79279910e5316b9245f63e88e",
+  "notas": "v1.6.3: 'Recordarme' ahora funciona de verdad - al abrir la app entras directo al dashboard (sesion de 30 dias). Al cerrar sesion podes elegir 'Cerrar STELLA' (conserva la sesion) o 'Cambiar de usuario'. La contrasena ya no se guarda en el disco. Incluye todo lo de v1.6.2 (fix Cuentas Corrientes). Tu base de datos no se toca al actualizar."
 }
