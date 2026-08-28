@@ -1,6 +1,6 @@
 {
-  "version": "1.6.1",
+  "version": "1.6.2",
   "url": "https://raw.githubusercontent.com/Rahyned/STELLA-releases-/main/STELLA_Setup.exe",
-  "sha256": "c2e6eeac19abfb237c52bf6eab142660eab6812267766473c92d97ccdcb47c79",
-  "notas": "v1.6.1: Exportar datos en CSV/JSON desde las tablas (Clientes, Proveedores, Productos, Cuentas Corrientes y Trabajos). Botón 'Abrir carpeta de logs' en Configuración. Rotación automática de logs (ya no crecen infinitamente). Dependencias auditadas (0 vulnerabilidades). Verificación automática del ejecutable al iniciar (smoke-test). Tu base de datos no se toca al actualizar."
+  "sha256": "59156b44cf325e51389a352b47a070a74ee232710d97c060baca74f461baf4bc",
+  "notas": "v1.6.2: Fix importante en Cuentas Corrientes y navegación entre secciones (error de loader al cambiar de pestaña ya no interrumpe la app). Incluye todo lo de v1.6.1: exportar CSV/JSON, botón 'Abrir carpeta de logs', rotación de logs, dependencias auditadas. Tu base de datos no se toca al actualizar."
 }
