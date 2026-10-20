@@ -1,6 +1,6 @@
 {
-  "version": "1.6.3",
+  "version": "1.6.4",
   "url": "https://raw.githubusercontent.com/Rahyned/STELLA-releases-/main/STELLA_Setup.exe",
-  "sha256": "2900fc3f2c115f5f2bb1d41ba64b45617758e8c79279910e5316b9245f63e88e",
-  "notas": "v1.6.3: 'Recordarme' ahora funciona de verdad - al abrir la app entras directo al dashboard (sesion de 30 dias). Al cerrar sesion podes elegir 'Cerrar STELLA' (conserva la sesion) o 'Cambiar de usuario'. La contrasena ya no se guarda en el disco. Incluye todo lo de v1.6.2 (fix Cuentas Corrientes). Tu base de datos no se toca al actualizar."
+  "sha256": "c29c28bd5425f221016eca6cb60059cf5a644605598ee32b36fcdb56e24a4275",
+  "notas": "v1.6.4: Release de la auditoria de octubre. El instalador publico ya no incluye google_oauth.json (se copia a mano en %APPDATA%\\STELLA\\config\\), el backup a Drive queda deshabilitado sin ese archivo, consultor en solo lectura, Limpiar Base solo para el propietario, sin Cargar 100 Ejemplos, backups mas seguros (14 dias + 8 semanas, uno por dia), cancelados no facturan, ingresos solo de clientes, formato 1.500$, Si/No en espanol, toast de exito e Informe Mensual en el menu. Instalador mas liviano (78 MB). Incluye todo lo de v1.6.3. Tu base de datos no se toca al actualizar."
 }
