@@ -1,22 +1,32 @@
-# STELLA — Laboratorio RioDent
+STELLA
+Sistema de gestión para el laboratorio dental RioDent: trabajos, cuentas corrientes y reportes en una app de escritorio.
 
-Instalador oficial de STELLA, sistema de gestión para laboratorio odontológico.
+Este repositorio publica solo el instalador. El código fuente es privado.
 
-## Instalación
+Qué resuelve
+El laboratorio llevaba los trabajos en papel, sin seguimiento ni cuentas corrientes. STELLA ordena cada trabajo de principio a fin y el laboratorio la usa todos los días.
 
-1. Descargá [STELLA_Setup.exe](https://raw.githubusercontent.com/Rahyned/STELLA-releases-/main/STELLA_Setup.exe).
-2. Ejecutalo y seguí el asistente (requiere permisos de administrador).
-3. Al terminar, STELLA se abre automáticamente. Iniciá sesión con tu usuario.
+Funcionalidades principales
+Trabajos con estados y seguimiento.
+Cuentas corrientes de clientes.
+Usuarios con roles e inicio de sesión.
+Reportes y comprobantes en PDF.
+Backup automático al iniciar y respaldo en Google Drive.
+Actualizaciones automáticas desde la propia app.
+Stack
+Python · PyQt5 · FastAPI · SQLModel · JWT · ReportLab.
 
-> Si Windows muestra el aviso de SmartScreen, tocá **"Más información" → "Ejecutar de todas formas"**.
+Instalación
+Descargá STELLA_Setup.exe.
+Ejecutalo y seguí el asistente (requiere permisos de administrador).
+Al terminar, STELLA se abre sola. Iniciá sesión con tu usuario.
+Si Windows muestra el aviso de SmartScreen, elegí "Más información" → "Ejecutar de todas formas".
 
-## Actualizaciones
+Actualizaciones y datos
+STELLA busca actualizaciones al iniciar y desde Configuración → Actualizaciones. La versión nueva se instala con un clic.
+Los datos y la configuración se guardan en %APPDATA%\STELLA\. Instalar o actualizar no los borra ni los modifica.
+Estado
+En uso diario en Laboratorio RioDent desde enero de 2026.
 
-- STELLA busca actualizaciones al iniciar y desde **Configuración → Actualizaciones**.
-- Cuando hay una versión nueva, se descarga y se instala en un solo clic.
-
-## Tus datos están a salvo
-
-- La base de datos y la configuración se guardan en `%APPDATA%\STELLA\`.
-- Instalar o actualizar **no borra ni modifica tus datos**.
-- Se crea un backup automático al iniciar la aplicación.
+Autor
+© 2026 Lautaro Rodríguez. Todos los derechos reservados. · GitHub
